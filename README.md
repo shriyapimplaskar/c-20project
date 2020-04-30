@@ -1,2 +1,2 @@
-# c-20project
-detect collision between two objects
+# staticSquare
+A static square made using Matter.js physics engine
